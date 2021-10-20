@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "disease": "Cardiologists",
+      "description":"They’re experts on the heart and blood vessels. You might see them for heart failure, high blood pressure, or an irregular heartbeat.",
+      "img": "https://media.istockphoto.com/photos/heart-shows-a-medical-worker-picture-id1007977032?s=612x612",
+      "doctorName": "David Lamor",
+      "designation": "MBBS & FCPS"
+    },
+    {
+      "id": 2,
+      "disease": " Rectal Surgeons",
+      "description":"You would see these doctors for problems with your  colon, and bottom. They can treat colon cancer and inflammatory bowel disease. ",
+      "img": "https://media.istockphoto.com/photos/doctor-draws-the-structure-of-the-colon-on-a-screen-picture-id922017530?s=612x612",
+      "doctorName": "Willy hells",
+      "designation": "MBBS & FCPS"
+    },
+    {
+      "id": 3,
+      "disease": "Dermatologists",
+      "description":"Have problems with your skin, hair, nails? Do you have moles, scars, acne, or skin allergies? Dermatologists can help.",
+      "img": "https://media.istockphoto.com/photos/close-up-of-dermatologist-examining-patient-birthmark-in-clinic-picture-id1266812413?s=612x612",
+      "doctorName": "Cooper wood",
+      "designation":"MBBS & FCPS"
+    },
+    {
+      "id": 4,
+      "disease": "Endocrinologists",
+      "description":"These are experts on hormones and metabolism. They can treat conditions like diabetes, thyroid problems,calcium etc.",
+      "img": "https://media.istockphoto.com/photos/female-doctor-examining-her-patient-picture-id184956723?s=612x612",
+      "doctorName": "Marcuis henrry",
+      "designation":"MBBS & FCPS"
+    },
+    {
+      "id": 5,
+      "disease": "Gastroenterologists",
+      "description":"They’re specialists in digestive organs, including the stomach, bowels, pancreas, liver, and gallbladder.",
+      "img": "https://media.istockphoto.com/photos/child-having-tummy-examination-by-pediatrician-picture-id174938235?s=612x612",
+      "doctorName": "Ben hooks",
+      "designation":"MBBS & FCPS"
+    },
+    {
+      "id": 6,
+      "disease": "Hematologists",
+      "description":"These are specialists in diseases of the blood, spleen, and lymph glands, like sickle cell disease, anemia, hemophilia, and leukemia.",
+      "img": "https://media.istockphoto.com/photos/blood-sample-picture-id1266993064?s=612x612",
+      "doctorName": "Nikita homur",
+      "designation": "MBBS & FCPS"
+    }
+  ]

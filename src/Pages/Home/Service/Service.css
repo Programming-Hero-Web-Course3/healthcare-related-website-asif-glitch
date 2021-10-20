@@ -1,0 +1,7 @@
+.service-container img{
+height: 300px;
+}
+.service-container{
+    background-color: azure;
+    border-radius: 10px;
+}
